@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="LTmh8uLbbUFnOm6r2dTJ">
+    <mxGraphModel dx="1414" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lJVVUni_sbZs57WMfuPA-12" edge="1" parent="1" source="lJVVUni_sbZs57WMfuPA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-14" connectable="0" parent="lJVVUni_sbZs57WMfuPA-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(3) Изменение коллекции&amp;nbsp;&lt;div&gt;Transactions (ObservableCollection)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.24" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Модуль транзакций&lt;br&gt;&lt;/font&gt;(TransactionsVM) &lt;/pre&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(21, 22, 23));&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; white-space: pre-wrap; background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;+ AddTransactio&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; white-space: pre-wrap; background-color: transparent; color: rgb(249, 250, 251);&quot;&gt;n()&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(21, 22, 23));&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; white-space: pre-wrap; background-color: transparent;&quot;&gt;+ UpdateTransaction()&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; white-space: pre-wrap; background-color: transparent;&quot;&gt;+ DeleteTransaction()&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="190" x="60" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-15" edge="1" parent="1" source="lJVVUni_sbZs57WMfuPA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="lJVVUni_sbZs57WMfuPA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-16" connectable="0" parent="lJVVUni_sbZs57WMfuPA-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(4) Событие CollectionChanged" vertex="1">
+          <mxGeometry relative="1" x="-0.0031" y="-4" as="geometry">
+            <mxPoint x="-23" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;Модуль статистики&lt;br&gt;(StatisticsVM)&lt;/pre&gt;&lt;/font&gt;&lt;/pre&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;/p&gt;&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- StartDate / EndDate&lt;br&gt;&lt;/font&gt;- Recalculate()&lt;br&gt;- TotalSum, ... &lt;br&gt;-IncomeExpenseSeries&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="230" width="190" x="380" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-17" edge="1" parent="1" source="lJVVUni_sbZs57WMfuPA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-18" connectable="0" parent="lJVVUni_sbZs57WMfuPA-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(5) Подписка на CollectionChanged" vertex="1">
+          <mxGeometry relative="1" x="0.7946" as="geometry">
+            <mxPoint x="90" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;pre style=&quot;font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; white-space: pre-wrap; word-break: break-all; padding: 16px; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Общая модель&lt;br&gt;&lt;/font&gt;Transaction &lt;/pre&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="70" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-19" edge="1" parent="1" source="lJVVUni_sbZs57WMfuPA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lJVVUni_sbZs57WMfuPA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-20" connectable="0" parent="lJVVUni_sbZs57WMfuPA-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(1) Добавление / редактирование / удаление" vertex="1">
+          <mxGeometry relative="1" x="-0.1758" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-21" edge="1" parent="1" source="lJVVUni_sbZs57WMfuPA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lJVVUni_sbZs57WMfuPA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-22" connectable="0" parent="lJVVUni_sbZs57WMfuPA-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(2) Выбор периода" vertex="1">
+          <mxGeometry relative="1" x="0.0897" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJVVUni_sbZs57WMfuPA-11" parent="1" style="html=1;whiteSpace=wrap;" value="Пользователь" vertex="1">
+          <mxGeometry height="50" width="440" x="100" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
